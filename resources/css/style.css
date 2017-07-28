@@ -103,6 +103,14 @@ h2:after{
 	color: #e67e22;
 	margin-bottom: 10px;
 }
+
+.icon-small{
+	display: inline-block;
+	width: 30px;
+	text-align: center;
+	color: #e67e22;
+	font-size: 120%;
+}
 /* ---------- BUTTONS ------------ */
 .btn:link,
 .btn:visited {
@@ -300,3 +308,8 @@ header{
 	height: auto;
 	margin-bottom: 15px;
 }
+
+.city-feature{
+	margin-bottom: 5px;
+}
+
