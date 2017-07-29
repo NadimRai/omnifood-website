@@ -184,6 +184,7 @@ header{
 	background-size: cover;
 	background-position: center;
 	height: 100vh;
+	background-attachment: fixed;
 }
 
 .hero-text-box{
@@ -347,6 +348,8 @@ header{
 .section-testimonials {
     background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url("img/back-customers.jpg");
     background-size: cover;
+    color: #fff;
+    background-attachment: fixed;
     
 }
 
